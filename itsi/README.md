@@ -7,7 +7,7 @@ Prerequisites:
 - Splunk App for Content Packs
 - Splunk ITSI
 
-Install the content pack as a Splunk App and then navigate to the Data Integrations tab on Splunk ITSI. Browse and select this content pack to walk through the import process.
+Install the content pack as a Splunk Add-on and then navigate to the Data Integrations tab on Splunk ITSI. Browse and select this content pack to walk through the import process.
 
 ## Installing Entities
 See Splunk's documentation for adding Entities for AWS
