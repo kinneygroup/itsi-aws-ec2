@@ -32,25 +32,36 @@ The content pack defines dependencies between services to reflect the interconne
 
 ## Installation
 
-### Prerequisites
-- Splunk ITSI installed and configured.
-- Necessary data sources and Splunk Add-ons for AWS configured.
+### Installation prerequisites:
 
-For detailed installation steps, please visit the [Splunk documentation](https://docs.splunk.com/Documentation/ITSI/latest/Install/InstallContentPacks) and the [Kinney Group documentation](https://www.kinneygroup.com/installing-content-packs).
+[Splunk Addon for AWS](https://splunkbase.splunk.com)
 
-The content pack can be downloaded from the [GitHub repository](https://www.github.com/kinneygroup).
+[Splunk App for Content Packs](https://splunkbase.splunk.com/app/5391)
+
+[Splunk ITSI](https://www.splunk.com/en_us/products/it-service-intelligence.html)
 
 ## Troubleshooting
-If you encounter any issues during the installation or configuration of the content pack, please refer to the following resources:
-- [Kinney Group documentation](https://www.kinneygroup.com/installing-content-packs)
-- [GitHub repository with Readme](https://www.github.com/kinneygroup)
-- For further assistance, contact [support@kinneygroup.com](mailto:support@kinneygroup.com)
+
+[Kinney Group ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
+
+[Github and Readme](https://www.github.com/kinneygroup)
+
+support@kinneygroup.com
 
 ## Contact
-For additional support or inquiries, please email [support@kinneygroup.com](mailto:support@kinneygroup.com).
+
+To provide feedback, visit our [Github and Readme](https://www.github.com/kinneygroup) for our content packs.
+
+support@kinneygroup.com
+
+For more information about Kinney Group's Splunk Products, visit our [website](https://kinneygroup.com/atlas).
 
 ## Version History
 
-| Version | Date       | Description                                      |
-|---------|------------|--------------------------------------------------|
-| 0.0.4   | 2024-04-16 | Pre-release of the AWS EC2 Performance Monitoring ITSI Content Pack. |
+| Version | Date  | Description                |
+|---------|-------|----------------------------|
+| 0.0.4   | 04/16/2024 | Prerelease changes to Readme   |
+
+## Considerations:
+
+[Kinney Group ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
