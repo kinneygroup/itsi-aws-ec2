@@ -1,7 +1,7 @@
 # AWS EC2 Performance Monitoring ITSI Content Pack
 
 ## Summary
-The AWS EC2 Performance Monitoring ITSI Content Pack by Kinney Group is a comprehensive solution for monitoring and analyzing the performance of Amazon Web Services EC2 instances. It provides a suite of services and KPIs to track CPU, disk, and network utilization, ensuring that EC2 instances are running efficiently and effectively. This content pack is a valuable asset for system administrators and DevOps teams to proactively manage and optimize their cloud infrastructure.
+The AWS EC2 Performance Monitoring ITSI Content Pack by Presidio Splunk Solutions is a comprehensive solution for monitoring and analyzing the performance of Amazon Web Services EC2 instances. It provides a suite of services and KPIs to track CPU, disk, and network utilization, ensuring that EC2 instances are running efficiently and effectively. This content pack is a valuable asset for system administrators and DevOps teams to proactively manage and optimize their cloud infrastructure.
 
 - **In-depth Instance Monitoring**: Gain visibility into the performance of EC2 instances with detailed metrics on CPU, disk, and network usage.
 - **Proactive Issue Detection**: Quickly identify and troubleshoot performance bottlenecks or system health issues to minimize downtime.
@@ -12,7 +12,7 @@ This content pack is open-source and can be found on [GitHub](https://www.github
 ## Details
 The AWS EC2 Performance Monitoring ITSI Content Pack is designed to provide users with the tools necessary to monitor the key aspects of their EC2 instances. It includes predefined services and KPIs that can be easily imported into Splunk ITSI, offering a streamlined setup process. The content pack helps solve common problems related to resource utilization, system performance, and operational efficiency.
 
-For detailed installation instructions, please refer to the [Kinney Group documentation](https://www.kinneygroup.com/installing-content-packs).
+For detailed installation instructions, please refer to the [Presidio Splunk Solutions documentation](https://www.kinneygroup.com/installing-content-packs).
 
 ### Services
 The content pack includes the following services, each representing a critical component of EC2 performance monitoring:
@@ -42,26 +42,27 @@ The content pack defines dependencies between services to reflect the interconne
 
 ## Troubleshooting
 
-[Kinney Group ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
+[Presidio Splunk Solutions ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
 
 [Github and Readme](https://www.github.com/kinneygroup)
 
-support@kinneygroup.com
+atlassupport@presidio.com
 
 ## Contact
 
 To provide feedback, visit our [Github and Readme](https://www.github.com/kinneygroup) for our content packs.
 
-support@kinneygroup.com
+atlassupport@presidio.com
 
-For more information about Kinney Group's Splunk Products, visit our [website](https://kinneygroup.com/atlas).
+For more information about Presidio Splunk Solutions' Splunk Products, visit our [website](https://kinneygroup.com/atlas).
 
 ## Version History
 
 | Version | Date  | Description                |
 |---------|-------|----------------------------|
 | 0.0.4   | 04/16/2024 | Prerelease changes to Readme   |
+| 1.0.0   | 05/15/2025 | Update to Documentation |
 
 ## Considerations:
 
-[Kinney Group ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
+[Presidio Splunk Solutions ITSI Content Pack Blog](https://kinneygroup.com/blog/installing-itsi-content-packs/)
