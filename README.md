@@ -54,7 +54,7 @@ To provide feedback, visit our [Github and Readme](https://www.github.com/kinney
 
 atlassupport@presidio.com
 
-For more information about Presidio Splunk Solutions' Splunk Products, visit our [website](https://kinneygroup.com/atlas).
+For more information about Presidio Splunk Solutions' Splunk Products, visit our [website](https://atlas.presidio.com).
 
 ## Version History
 
